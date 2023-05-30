@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.headh{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 4px;
+}
+.buttonpart{
+    display: flex;
+    padding-left: 5rem;
+    margin-top: 3rem;
+}
+.buttonpart button{
+    margin-left: 3rem;
+    border: none;
+    background-color: blue;
+    color: white;
+    height: 2rem;
+    width: 10rem;
+    font-weight: 600;
+    font-size: 15px;
+    border-radius: 5px;
+}
