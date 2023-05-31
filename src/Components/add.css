@@ -4,7 +4,7 @@
 }
 .headh{
     text-align: center;
-    background-color: blue;
+    background-color: #4D72BE;
     color: white;
     padding: 4px;
 }
@@ -16,7 +16,7 @@
 .buttonpart button{
     margin-left: 3rem;
     border: none;
-    background-color: blue;
+    background-color: #4D72BE;
     color: white;
     height: 2rem;
     width: 10rem;

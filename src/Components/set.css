@@ -5,6 +5,23 @@
     border: 1px solid #4D72BE;
     position: relative;
 }
+#retid{
+
+    width: 13rem;
+    height: 1.5rem;
+}
+#retbu{
+    height: 1.7rem;
+    width: 6rem;
+    background-color: #4D72BE;
+    border: none;
+    margin: 2px;
+    color: white;
+    font-weight: 600;
+}
+.resultbox{
+    padding: 20px;
+}
 .paragr{
     display: inline;
     color: white;
@@ -45,7 +62,7 @@ td{
 .buttonpartset button{
 
     border: none;
-    background-color: blue;
+    background-color: #4D72BE;
     color: white;
     height: 2rem;
     width: 5rem;
